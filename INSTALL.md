@@ -43,6 +43,10 @@ Centang opsi "Allow Redirections" di Settings (Thanks to @TrixPone)
 
 Apply
 
+Catatan :
+
+Jika menggunakan magisk, aktifkan Systemless hosts terlebih dahulu dengan cara mengklik Systemless host pada Settings di Magisk Manager kemduian reboot.
+
 #**Non-Root**#
 
 Sebelumnya. install Hosts Go terlebih dahulu
